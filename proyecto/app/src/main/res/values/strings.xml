@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">proyecto</string>
+    <string name="title_activity_sacursales">sacursales</string>
+    <string name="bicimotos_cristy">Bicimotos cristy</string>
+    <string name="registro">Registro</string>
+    <string name="Tiendita">Tiendita</string>
+</resources>
